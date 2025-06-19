@@ -1,8 +1,3 @@
-Perfekt – hier ist der abschließende Teil 4/4: Projektstruktur, Tipps zum Starten und optionaler automatischer Modell-Download.
-
-
----
-
 📂 Empfohlene Projektstruktur
 
 📁 kantenerkennung_gpu/
