@@ -1,0 +1,7 @@
+# requirements.txt — für Kornia GPU-Tile-Kantenerkennung
+torch>=2.0.0             # Deep Learning Backend (CUDA-kompatibel bei Bedarf)
+torchvision>=0.15.0      # Für Transforms
+kornia>=0.7.0            # Bildverarbeitung & DexiNed-Modell
+opencv-python>=4.7.0     # Bildspeicherung und -handling (cv2)
+Pillow>=9.5.0            # Öffnet JPG/PNG als PIL.Image
+numpy>=1.24.0            # Tensorverarbeitung, Konvertierung
